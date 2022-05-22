@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+}
+
+#container {
+  width: 300px;
+  height: 470px;
+  margin: 100px auto;
+  background-color: #ffffff;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+#header {
+  margin: 10px 10px;
+  background-color: #558fdb8c;
+  border-radius: 8px;
+}
+
+#header h1 {
+  font-size: 30px;
+  padding: 5px 5px;
+  text-align: center;
+}
+
+#display {
+  margin: 15px 10px;
+  border-radius: 5px;
+}
+
+#display input {
+  width: 100%;
+  padding: 10px 10px;
+  text-align: right;
+  border: none;
+  outline: none;
+  font-size: 25px;
+  background-color: transparent;
+}
+
+#buttons {
+  margin: 10px 10px 10px 10px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
+
+#buttons input[type="button"] {
+  font-size: 20px;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  border-radius: 8px;
+}
+
+#buttons input[type="button"]:hover {
+  box-shadow: 0 5px 15px #558fdb6c;
+}
+
+input[type="button"]#equal {
+  grid-row: span 2;
+  background-color: #558fdb8c;
+}
+
+input[type="button"]#zero {
+  grid-column: span 2;
+}
