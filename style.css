@@ -1,0 +1,68 @@
+@font-face {
+  font-family: Mario;
+  src: url(SuperMario256.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #fff;
+  text-shadow: 2px 2px 20px #000;
+}
+
+h1,
+h2,
+#nav-link {
+  font-family: Mario;
+}
+
+.jumbotron {
+  padding: 1rem 2rem !important;
+}
+
+#nav-link {
+  color: #fff;
+}
+
+#nav-link:hover {
+  color: #3bb1ff;
+}
+
+#header {
+  background-image: url("https://i.hizliresim.com/cj83n90.jpg");
+  background-size: contain;
+}
+
+#mario {
+  background: url("https://i.hizliresim.com/dx5621v.jfif") no-repeat center;
+  background-size: contain;
+}
+
+#luigi {
+  background: url("https://i.hizliresim.com/d8tjjul.jfif") no-repeat center;
+  background-size: contain;
+}
+
+#princess {
+  background: url("https://i.hizliresim.com/s6d8f4h.jfif") no-repeat center;
+  background-size: contain;
+}
+
+#goomba {
+  background: url("https://i.hizliresim.com/2e6wh9i.jfif") no-repeat center;
+  background-size: contain;
+}
+
+#koopa {
+  background: url("https://i.hizliresim.com/40131xn.jfif") no-repeat center;
+  background-size: contain;
+}
+
+#bowser {
+  background: url("https://i.hizliresim.com/8zcmc7b.png") no-repeat center;
+  background-size: contain;
+}
