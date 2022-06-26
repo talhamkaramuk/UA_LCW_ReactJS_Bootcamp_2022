@@ -12,3 +12,5 @@ An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki
 [Week 5️⃣ - First React App](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_5)
 
 [Week 6️⃣ - React Loading Training](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_6)
+
+[Week 7️⃣ - Redux Shop](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_7)
