@@ -18,3 +18,5 @@ An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki
 [Week :seven: - Crpyto Tracker](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_7.2)
 
 [Week :eight: - Hoverboard](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.1)
+
+[Week :eight: - Live User Filter](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.2)
