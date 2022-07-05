@@ -16,3 +16,5 @@ An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki
 [Week 7️⃣ - Redux Shop](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_7)
 
 [Week :seven: - Crpyto Tracker](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_7.2)
+
+[Week :eight: - Hoverboard](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.1)
