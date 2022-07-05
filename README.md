@@ -24,3 +24,5 @@ An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki
 [Week :eight: - Netflix Mobile Navigation](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.3)
 
 [Week :eight: - Quiz App](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.4)
+
+[Week :eight: - ToDo List](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.5)
