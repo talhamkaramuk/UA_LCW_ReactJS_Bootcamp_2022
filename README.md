@@ -1,3 +1,3 @@
 # Hoverboard
 
-### [Click to preview](https://talhamkaramuk.github.io/github-pages-hoverboard/)
+### [Click to review](https://talhamkaramuk.github.io/github-pages-hoverboard/)
