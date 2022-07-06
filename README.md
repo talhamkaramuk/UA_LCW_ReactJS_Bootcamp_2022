@@ -30,3 +30,5 @@ An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki
 [Week :eight: - React Tours Project](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.6)
 
 [Week :eight: - React Accordion App](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.7)
+
+[Week :eight: - React Color Generator](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_8.8)
