@@ -1,6 +1,9 @@
 # Üretken Akademi & LC Waikiki ReactJS Bootcamp 2022
 An 8 week ReactJS bootcamp in collaboration with Üretken Akademi and LC Waikiki. You can switch between branches to see the weekly assignments.
 ## Assignments
+
+[🎊🎊**Final Project - React Food Delivery App**🎊🎊](https://github.com/talhamkaramuk/los-pollos-hermanos)
+
 [Week 1️⃣ - Simple Calculator](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_1)
 
 [Week 2️⃣ - Sudoku Layout](https://github.com/talhamkaramuk/UA_LCW_ReactJS_Bootcamp_2022/tree/Week_2)
